@@ -177,4 +177,4 @@ Loopp is open-source software licensed under the **GNU General Public License v3
 ### Loopp
 
 **One place for your media.
-One player. One file manager.**
+One player.**
