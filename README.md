@@ -6,6 +6,22 @@
 
 ---
 
+## 🤖 Built with AI
+
+Loopp was built **entirely with AI assistance** using **ChatGPT** and **Google AI Studio**.
+
+I’m not a professional programmer, and I don’t have a traditional coding background. Instead, I designed the features, UI, behavior, and overall vision of Loopp, then used AI to turn those ideas into a working Android application.
+
+This project is also a personal experiment in discovering **how far you can go with AI-assisted development—even without knowing how to code.**
+
+> **Idea → Prompt → AI → Testing → Fixing → Repeat → Loopp 🚀**
+
+Every bug, improvement, feature, and design change was tested and refined throughout development.
+
+**Built with curiosity, AI, and a lot of trial and error. ❤️**
+
+---
+
 ## ✨ Features
 
 ### 🎬 Advanced Video Player
