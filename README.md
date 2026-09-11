@@ -56,7 +56,6 @@ You can manage your media files across folders with:
 * 📂 Move
 * 📄 File information
 * 📁 Folder navigation
-* 🔍 Search
 * 📑 Multi-selection
 
 ### 🔄 Copy, Cut & Paste Anywhere
